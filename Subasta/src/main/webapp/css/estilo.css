@@ -1,0 +1,17 @@
+.navbar img{
+    border-radius: 5px;
+    border:2px solid;
+    width: 50px;
+    height: auto;
+}
+#avatar {
+    display:none;
+}
+.car {
+    background: black;
+    display:none;
+}
+
+a .dropdown-item:active {
+    background: red;    
+}
